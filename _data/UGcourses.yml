@@ -1,0 +1,397 @@
+- number: 1000
+  title: "Computing: Its Nature, Power and Limits"
+  credit: (3 hours; 3 credits)
+  comment: Not open to students who are enrolled in, or have completed, any CIS course—other than CISC 1050—with a C or higher, or who have completed CORC 1312 or Core Studies 5 or 5.1.
+
+- number: "*1001" 
+  title: Computing and Quantitative Reasoning
+  credit: (3 hours; 3 credits)
+
+- number: "*1002"
+  title: The Outer Limits of Reasoning
+  credit: (3 hours; 3 credits)
+  comment: Not open to students who are enrolled in or have completed CO R C 3310
+
+- number: "*1003" 
+  title: Exploring Robotics
+  credit: (3 hours; 3 credits)
+  comment: Not open to students who are enrolled in or have completed CO R C 3303
+
+- number: "*1030" 
+  title: The Internet
+  credit: (2 hours lecture, 2 hours lab; 3 credits) 
+  prerequisite: CORC 1312 or Core Studies 5 or 5.1 or any course in computing.
+  comment: Not open to students who have completed CIS 13 or higher.
+
+- number: "*1035"
+  title: Multimedia Production for the World Wide Web
+  credit: (1 hour recitation, 1 hour lecture; 2 hours lab; a minimum of 4 hours independent computer laboratory work; 3 credits)
+  prerequisite: CORC 1312 or Core Studies 5 or 5.1 or any course in computing.
+  comment: Not open to students who are enrolled in or have completed CISC 3800 or 3630.
+
+- number: "*1050" 
+  title: Introduction to Computer Applications
+  credit: (3 hours; 3 credits)
+  comment: Not open to students who are enrolled in or have completed CISC 3800.
+
+- number: "*1060, *1062"
+  title: Computing Workshop 1, 2
+  credit: (10 hours; 3 credits)
+  prerequisite: CORC 1312 or 3303, or Core Studies 5 or 5.1, or any course in CIS; and permission of the chairperson.
+
+- number: "*1070, *1072"
+  title:  Special Topics in Computing
+  credit: (3 hours; 3 credits)
+  prerequisite: varies with each topic offered.
+
+- number: "*1110"
+  title:  Introduction to Computing Using C++
+  credit: (3 hours lecture, 2 hours lab; 4 credits)
+  comment: Not open to students who are enrolled in or have completed CIS 1.10 or 1.20 or 16 or C ISC 1180 or 3110.
+
+- number: "*1115"
+  title:  Introduction to Computing Using Java
+  credit: (3 hours lecture, 2 hours lab; 4 credits)
+  comment: Not open to students who are enrolled in or have completed CISC 1110 (1.5).
+
+- number: "*1150"
+  title:  UNIX Shell Programming
+  credit: (2 hours; 2 credits)
+  prerequisite: CISC 1170 or 3110 or 3115.
+
+- number: "*1155"
+  title:  Programming in Perl 
+  credit: (2 hours; 2 credits) 
+  prerequisite: CISC 3130.
+
+- number: "*1160"
+  title:  Visual Programming and Windowing Applications
+  credit: (2 hours; 2 credits) 
+  prerequisite: CISC 3130
+
+- number: "*1170"
+  title:  Java for Programmers
+  credit: (2 hours; 2 credits) 
+  prerequisite: an introductory programming course in a language other than Java, and permission of the chair.
+  comment: Not open to students who are in enrolled in or have completed CIS 1115 or 3115.
+
+- number: "*1180"
+  title:  Introduction to C++ for Programmers
+  credit: (2 hours; 2 credits)
+  prerequisite: An introductory programming course in a language other than C++ or C.  
+  comment: Not open to students who are enrolled in or have completed CISC 1110 or 3110.
+
+- number: "*1341"
+  title:  Assembly Language Programming for Microcomputers [INACTIVE]
+  credit: (3 hours; 3 credits)
+  prerequisite: CIS 1.10 or 1.20 or 2.40 or CISC 1110 or 1115 or 1180.
+
+- number: "*1400"
+  title:  Elementary Robotics
+  credit: (3 hours; 3 credits)
+  prerequisite: CORC 1311 or MATH 1011 or 1026 or 1201 or permission of the chairperson.
+
+- number: "*1410"
+  title:  Philosophy and Artificial Intelligence
+  credit: (3 hours; 3 credits)
+  prerequisite: CORC 1312 or Core Studies 5 or 5.1 or a course in CIS; and CORC 1210 or Core Studies 10 or a course in philosophy; or permission of the chairperson.
+  comment: Not open to students who have completed CIS 32.1.
+
+- number: "*1530"
+  title:  Electronic Commerce
+  credit: (3 hours; 3 credits)
+  prerequisite: CORC 1312 or Core Studies 5 or 5.1 or any course in computing.
+
+- number: "*1580W"
+  title:  Seminar in Computer-Assisted Management Games
+  credit: (3 hours; 3 credits)
+  prerequisite: "ENGL 1012. Pre- or co-requisite: BUSN 3400 or MATH 2501 or 3501; and BUSN 3430 or CISC 2531; and CISC 1050 or 1110; and senior standing; and at least 34 credits in CIS and/or Business courses required for the B.S. degree in CIS or the B.S. degree in business, management, and finance."
+  comment: Not open to students who have completed Economics 80.3.
+
+- number: "*1590"
+  title:  Management Information Systems
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 1050 and at least sophomore standing or permission of the chairperson.
+  comment: Not open to students who have completed BUSN 3420.
+
+- number: "*1595"
+  title:  Management of New and Emerging Technologies
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 1050 or permission of the chairperson.
+  comment: Not open to students who have completed Econom ics 50.8
+
+- number: "*1597"
+  title:  New Media and Business
+  credit: (3 hours; 3 credits)
+  prerequisite: sophomore status or departmental permission.
+
+- number: "*1600"
+  title:  Introduction to Multimedia Computing
+  credit: (3 hours; 3 credits)
+
+- number: "2210"
+  title:  Introduction to Discrete Structures
+  credit: (3 hours; 3 credits)
+  prerequisite: CIS 1.10 or 1.20 or 1110 or 1115; and MATH 1011 or 2.92 or assignment to MATH 3.20 or 1201 or 4.10 by the Department of Mathematics.
+
+- number: "2531"
+  title:  Operations Management
+  credit: (3 hours; 3 credits)
+  prerequisite: CORC 1312 or Core Studies 5.1 or CIS 100 or 1050 or 1110 or 1115; CISC 2210 or BUSN 3400 or ECON 3400 or MATH 2501 or MATH 3501.
+  comment: Not open to students who are enrolled in or have completed M AT H 3606 or Econom ics 31.4. 
+
+- number: "2532"
+  title:  Information Systems Project Management
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 1590 or BUSN 3420.
+
+- number: "2590"
+  title:  Foundations of Business Analytics
+  credit: (3 hours; 3 credits)
+  prerequisite: Business 3400, Econom ics 3400, Mathem atics 1501, Psychology 3400, or an equivalent statistics course with a grade of C or better; and Computer and Information Science 1050 or proficiency with spreadsheets.
+
+- number: "2810W"
+  title:  Macromolecular Structure and Bioinformatics
+  credit: (3 hours; 3 credits)
+  prerequisite: English 1012, Biology 1001, Biology 1002, and permission of the instructor.
+
+- number: "2820W"
+  title:  Computers and Ethics
+  credit: (3 hours; 3 credits)
+  prerequisite: CORC 1312 or Core Studies 5.1 or CIS 1000 or 1110 or 1115, and ENGL 1012.
+
+- number: "2830"
+  title:  Introduction to Natural Language Processing
+  credit: (3 hours; 3 credits) 
+  prerequisite: "CISC 1110 or 1115. Pre- or co-requisite: CISC 2210 and Linguistics (LING) 2001."
+
+- number: "3110"
+  title:  Advanced Programming Techniques
+  credit: (4 hours; 4 credits)
+  prerequisite: CISC 1110 or 1180. 
+  comment: Not open to students who are enrolled in or have completed CISC 3130.
+
+- number: "3115"
+  title:  Introduction to Modern Programming Techniques
+  credit: (4 hours; 4 credits)
+  prerequisite: CISC 1115 or 1170. 
+  comment: Not open to students who are enrolled in or have completed CISC 3110.
+
+- number: "3120"
+  title:  Design and Implementation of Software Applications 1
+  credit: (3 hours; 3 credits) 
+  prerequisite: CISC 3110.
+
+- number: "3130"
+  title:  Data Structures
+  credit: (4 hours; 4 credits)
+  prerequisite: CISC 3115; or CISC 3110 and 1170.
+
+- number: "3140"
+  title:  Design and Implementation of Large-Scale Web Applications
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 3130; and either 3115 or 3120.
+
+- number: "3142"
+  title:  Programming Paradigms in C++
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 3115, 3130, and either 3310 or permission of the chair.
+  comment: Not open to students who have completed CISC 3110.
+
+- number: "3150"
+  title:  Object-Oriented Programming
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 3120 and 3130.
+
+- number: "3160"
+  title:  Programming Languages
+  credit: (4 hours; 4 credits)
+  prerequisite: CISC 3142 or 3150. 
+
+- number: "3171"
+  title:  Introduction to Software Engineering
+  credit: (3 hours; 3 credits) 
+  prerequisite: CISC 3130.
+
+- number: "3220"
+  title:  Analysis of Algorithms
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 2210; CIS 21 or CISC 3130; MATH 3.20 or 1201 or 4.10.
+
+- number: "3230"
+  title:  Theoretical Computer Science
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 2210; CIS 21 or CISC 3130; MATH 3.20 or 1201 or 4.10.
+
+- number: "3240"
+  title:  Cryptography and Cryptanalysis
+  credit: (3 hours; 3 credits)
+  prerequisite: MATH 2101 or permission of the chair.
+
+- number: "3305"
+  title:  Computer Organization [INACTIVE]
+  credit: (3 hours; 3 credits)
+  prerequisite: CIS 4 or CISC 1341; and CISC 2210. 
+  comment: Not open to students who are enrolled in or who have completed CISC 3315.
+
+- number: "3310"
+  title:  Principles of Computer Architecture 
+  credit: (4 hours; 4 credits)
+  prerequisite: CISC 1110 or 1115 or 1170 or 1180; and CISC 2210.
+  comment: Not open to students who are enrolled in or have completed CISC 3305 or 3315.
+
+- number: "3315"
+  title:  Digital Computer Systems
+  credit: (3 hours lecture, 3 hours laboratory; 4½ credits) 
+  prerequisite: CIS 4 or CISC 1341; and CISC 2210.
+  comment: Not open to students who are enrolled in or have completed CISC 3305.
+
+- number: "3320"
+  title:  Operating Systems
+  credit: (3 hours; 3 credits)
+  prerequisite: CIS 21 or CISC 3130; and CISC 3305, 3310, or 3315. 
+  comment: Prior experience on two platforms recommended.
+
+- number: "3325"
+  title:  Information Security 
+  credit: (3 hours; 3 credits) 
+  prerequisite: CIS 3320
+
+- number: "3330"
+  title:  Foundations of Parallel and Distributed Computing
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 3142; or permission of the chairperson.
+
+- number: "3340"
+  title:  Computer Networks and Protocols
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 3130; CISC 3305, 3310, or 3315; and MATH 2501.
+  comment: Not open to students who are enrolled in or have completed CISC 3343 or 3345.
+
+- number: "3343"
+  title:  Telecommunications
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 3130; CISC 3305, 3310, or 3315; and MATH 2501.
+  comment: Not open to students who are taking or have taken C ISC 3340.
+
+- number: "3345"
+  title:  Computer Networks
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 3130; CISC 3305, 3310, or 3315.
+  comment: Not open to students who are taking or have taken CISC 3340.
+
+- number: "3350"
+  title:  Workstation Programming
+  credit: (3 hours; 3 credits) 
+  prerequisite: CISC 3130.
+
+- number: "3390"
+  title:  Compiler Construction
+  credit: (3 hours; 3 credits)
+  prerequisite: one of CIS 2.10, 2.20, 2.30, 2.40, 2.85, CISC 1150, 1170 or 3150; CISC 2210 and 3130.
+
+- number: "3410"
+  title:  Artificial Intelligence
+  credit: (3 hours; 3 credits)
+  prerequisite: CIS 21 or CISC 3130.
+
+- number: "3415"
+  title:  Principles of Robotics
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 2210 and CISC 3130.
+
+- number: "3610"
+  title:  Introduction to Multimedia Programming
+  credit: (3 hours; 3 credits) 
+  prerequisite: CISC 3110 or 3115.
+
+- number: "3620"
+  title:  Computer Graphics
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 3130 and MATH 1011 or 1026 or assignment to MATH 1201.
+
+- number: "3630"
+  title:  Multimedia Computing
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 1030 or 1050; and CISC 3800 or 3130.
+
+- number: "3650"
+  title:  Human-Computer Interaction
+  credit: (3 hours; 3 credits) 
+  prerequisite: CISC 3115 or 3120.
+
+- number: "3660"
+  title:  Game Programming 
+  credit: (3 hours; 3 credits) 
+  prerequisite: CISC 3130.
+
+- number: "3665"
+  title:  Game Design
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 3130, and MATH 1011 or 1201.
+
+- number: "3800"
+  title:  Advanced Personal Computer Techniques for Business Applications
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 1110 or 1115 and CISC 1050, or permission of the chairperson.
+
+- number: "3810"
+  title:  Database Systems
+  credit: (3 hours; 3 credits)
+  prerequisite: CIS 21 or CISC 3130; and CISC 1050 or permission of the chairperson.
+
+- number: "3820"
+  title:  Introduction to Modeling and Simulation
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 1110; and MATH 3501.
+
+- number: "4331"
+  title:  System and Network Administration 
+  credit: (2 hours lecture; 2 hours lab; 3 credits)
+  prerequisite: CISC 3320 or 3350 or permission of the chairperson.
+
+- number: "4335"
+  title:  Parallel and Distributed Computing
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 3130; CISC 3305, 3310, or 3315 or permission of the chairperson; and one of CISC 1150, 1170, 3160, 3320, 3150, 3410, 3350, 3330, 3820.
+
+- number: "4610"
+  title:  Multimedia Databases
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 3810, CISC 3635 or 3630.
+
+- number: "4800"
+  title:  Special Topics in Computer Science
+  credit: (3 hours; 3 credits)
+  prerequisite: CIS 21 or CISC 3130; and permission of the chairperson.
+
+- number: "4900, 4905"
+  title:  Independent and Group Projects I, II
+  credit: (3 hours recitation and at least 6 hours independent work; 3 credits each term) 
+  prerequisite of 4900: "For 4900: CISC 3110 or 3115 and permission of the chairperson. For 4905: CISC 4900 and permission of the chairperson."
+
+- number: "4920"
+  title:  Programming Practicum
+  credit: (1 hour lecture, 2 hours lab; 2 credits) 
+  prerequisite: "CISC 3130. Pre- or co-requisite: CISC 3220."
+
+- number: "4930, 4935"
+  title:  Advanced Computing Topics
+  credit: (3 hours; 3 credits)
+  prerequisite: Dependent on course topic.
+
+- number: "4940, 4945"
+  title:  Seminar in Theoretical Aspects of Information Science I, II
+  credit: (3 hours recitation and a minimum of 7 hours conference and independent work; 3 credits each term)
+  prerequisite: see [Honors Courses](honors.html#honors_courses).
+
+- number: "4950, 4955"
+  title:  Seminar in Special Topics I, II
+  credit: (3 hours recitation and a minimum of 7 hours conference and independent work; 3 credits each term)
+  prerequisite: see [Honors Courses](honors.html#honors_courses).
+
+- number: "5001, 5002, 5003, 5004"
+  title:  Independent Study and Research I, II, III, IV
+  credit: (Minimum of 9 hours conference and independent work; 3 credits each term)
+  prerequisite: CISC 3130, an advanced elective in CIS numbered 3140 or above, a minimum GPA of 3.0 overall in CIS advanced electives, a declared major in the CIS department and permission of the chairperson 
+

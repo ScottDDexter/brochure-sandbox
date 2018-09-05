@@ -1,0 +1,17 @@
+  {% for faculty in site.data.faculty %}
+  <div class="faculty">
+    {% assign lowerlast = faculty.last | downcase %}
+    {%- for image_file in site.static_files -%}
+      {%- if image_file.basename == lowerlast -%}
+      <img class="faculty-portrait" src="{{ image_file.path }}"/>
+      {%- endif -%}
+    {%- endfor -%}
+    <div>
+        {{ faculty.first }} <b> {{ faculty.last }}</b><br/><br/>
+    {{ faculty.spec }}<br/> 
+    <a href="mailto:{{ faculty.email }}">{{ faculty.email }}</a><br/>
+    {{ faculty.phone }}<br/>
+    {{ faculty.room }} 
+   </div>
+  </div>
+{%-  endfor -%}

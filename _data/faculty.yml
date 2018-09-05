@@ -1,0 +1,174 @@
+- first: David 
+  last: Arnow 
+  spec: Distributed programming; simulation of physical systems; computer science education.    
+  email: arnow@sci.brooklyn.cuny.edu   
+  room: 1216N 
+  phone: 951-5000 x2040    
+
+- first: Moshe 
+  last: Augenstein
+  spec: Data structures; program efficiency; software engineering; microcomputers.
+  email: augenstein@sci.brooklyn.cuny.edu
+  room: 2122aN 
+  phone: 951-5000 x2041
+
+- first: Amotz 
+  last: Bar-Noy    
+  spec: Design and analysis of algorithms; theoretical aspects of communication networks.    
+  email: amotz@sci.brooklyn.cuny.edu
+  room: 2112aN 
+  phone: 951-5000 x2042    
+
+- first: Hui 
+  last: Chen
+  spec: Mobile wireless networks, wireless sensor networks, system and network security, software engineering, probabilistic modeling and simulation.
+  email: chen@sci.brooklyn.cuny.edu
+  room: 1432N 
+  phone: 951-2055
+
+- first: Eva 
+  last: Cogan    
+  spec: Intelligent agents; logic; multiagent systems.    
+  email: cogan@sci.brooklyn.cuny.edu   
+  room: 2112bN 
+  phone: 951-5000 x2046    
+
+- first: James 
+  last: Cox
+  spec: Sensory-based robotics; medical imaging; combinatorial algorithms and computational complexity theory.
+  email: cox@sci.brooklyn.cuny.edu
+  room: 2112cN 
+  phone: 951-5000 x2047
+
+- first: Scott
+  last: Dexter
+  spec: Free and open-source software, technology and culture, digital humanities.
+  email: sdexter@sci.brooklyn.cuny.edu
+  room: 0113N
+  phone: 951-5000 x2048
+
+- first: Tzipora 
+  last: Halevi
+  spec: Security, privacy, human-computer interaction, embedded systems, Internet of things, signal processing.
+  email: halevi@sci.brooklyn.cuny.edu
+  room: 2156aN 
+  phone: 951-1517
+
+- first: Devorah
+  last: Kletenik
+  spec: Algorithms; Boolean functions; machine learning/computational learning theory. 
+  email: kletenik@sci.brooklyn.cuny.edu
+  room: 5316N
+  phone: 951-5000 x1502
+
+- first: Yedidyah
+  last: Langsam
+  spec: Multimedia; medical informatics; data structures; personal computing and the Internet.
+  email: langsam@sci.brooklyn.cuny.edu
+  room: 2109N
+  phone: 951-5657
+
+- first: Rivka 
+  last: Levitan    
+  spec: Natural language processing; spoken language processing; dialogue systems; prosody and discourse.    
+  email: levitan@sci.brooklyn.cuny.edu
+  room: 3114N 
+  phone: 951-5000 x3997
+
+- first: Michael
+  last: Mandel
+  spec: Signal processing; machine learning; audio processing; noise robust automatic speech recognition; psychoacoustics.
+  email: mim@sci.brooklyn.cuny.edu
+  room: 2232N
+  phone: 951-5000 x2053
+
+- first: Rohit 
+  last: Parikh    
+  spec: Applications of logic to AI; logic and semantics of programs; formal languages; proof theory.    
+  email: rparikh@gc.cuny.edu         
+  room: 1161N 
+  phone: 951-5000 x2058    
+
+- first: Theodore 
+  last: Raphan
+  spec: Modeling and simulation of eye movement control orientation; data acquisition and analysis; mechanisms; models of spatial pattern recognition and computer vision; neural networks; artificial intelligence.
+  email: raphan@nsi.brooklyn.cuny.edu
+  room: 541NE 
+  phone: 951-4193
+
+- first: Ira 
+  last: Rudowsky    
+  spec: Database design, analysis and implementation; multimedia databases intelligent agents.    
+  email: rudowsky@brooklyn.cuny.edu
+  room: 1417N 
+  phone: 951-5000 x2062
+
+- first: Charles
+  last: Schnabolk
+  spec: Formal development of programs; programming languages.
+  email: CSchnabo@brooklyn.cuny.edu
+  room: 2118N
+  phone: 951-5000 x 2064
+
+- first: Dina 
+  last: Sokol     
+  spec: Algorithm design and analysis; pattern matching algorithms; computational biology; data compression.    
+  email: sokol@sci.brooklyn.cuny.edu
+  room: 3209dN 
+  phone: 951-5000 x2065
+
+- first: Aaron 
+  last: Tenenbaum
+  spec: Data structures and algorithms; programming languages and compilers.
+  email: tbaum@sci.brooklyn.cuny.edu
+  room: 2122bN 
+  phone: 951-5000 x2066
+
+- first: Joseph 
+  last: Thurm   
+  spec: Database management practical uses of computers in business.    
+  email: thurm@sci.brooklyn.cuny.edu
+  room: 2109N 
+  phone: 951-5657    
+
+- first: Gerald
+  last: Weiss
+  spec: Object-oriented software development and patterns; programming languages and compilers; operating systems and constraint solving and programming; distributed programming.
+  email: weiss@sci.brooklyn.cuny.edu
+  room: 143NE
+  phone: 951-5000 x2664
+
+- first: Paula 
+  last: Whitlock    
+  spec: Programming languages and compilers. Computer simulations, especially Monte Carlo methods; development of random number generators, especially or parallel computing systems.
+  email: whitlock@sci.brooklyn.cuny.edu
+  room: 1212N 
+  phone: 951-5000 x2069    
+
+- first: Noson 
+  last: Yanofsky
+  spec: Category theory. Complexity theory. Higher-dimensional algebra.
+  email: yanofsky@sci.brooklyn.cuny.edu
+  room: 1430N 
+  phone: 951-5000 x2070
+
+- first: Gavriel 
+  last: Yarmish
+  spec: Distributed and parallel optimization methods; optimization of large linear optimization programs. 
+  email: yarmish@sci.brooklyn.cuny.edu
+  room: 1214N 
+  phone: 951-5000 x2071    
+
+- first: Neng-Fa 
+  last: Zhou
+  spec: Programming languages abstract machines and compilers constraint solving and programming Web publishing.
+  email: zhou@sci.brooklyn.cuny.edu 
+  room: 1161N 
+  phone: 951-5000 x2073
+ 
+- first: Chaim 
+  last: Ziegler
+  spec: Multimedia systems; computer networks; queueing theory; computer and Internet telephony systems.
+  email: ziegler@sci.brooklyn.cuny.edu
+  room: 1233N 
+  phone: 951-5000 x2074

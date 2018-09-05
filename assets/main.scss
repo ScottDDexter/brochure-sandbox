@@ -1,0 +1,85 @@
+---
+
+---
+
+@import "minima";
+@import "_dropdown.scss";
+
+.post-title,
+.post-content h1 {
+      @include relative-font-size(1.8);
+        letter-spacing: -1px;
+          line-height: 1;
+          
+            @include media-query($on-laptop) {
+                    @include relative-font-size(1.8);
+                      }
+                  }
+                  
+                  
+                  .callout {
+    padding: 20px;
+    margin: 20px 0;
+    line-height: 1.2;
+    background-color: gainsboro;
+    border: 1px solid #eee;
+    border-left-width: 5px;
+    border-radius: 3px;
+}
+
+table th, table td {
+    padding: 5px;
+}
+
+.callout:empty {
+    padding: 20px;
+    margin: 0px;
+    border: none;   
+}
+
+
+.callout h4 {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.callout h5 {
+    margin-left: 20px;
+    font-size: 18px;
+}
+.callout p:last-child {
+    margin-bottom: 0;
+}
+
+.callout+.callout {
+    margin-top: -5px;
+}
+.callout {
+    border-left-color: #777;
+}
+.callout h4 {
+    color: #777;
+}
+
+dd {
+    margin-left: 20px;
+    margin-bottom: 10px;
+    font-size: 80%;
+}
+
+.faculty-portrait {
+    width:150px;
+    border:1px solid black;
+    margin: 0px 10px 0px 0px;
+}
+.faculty {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+
+    margin: 20px;
+}
+
+.footer-text {
+    font-size: 75%;
+}

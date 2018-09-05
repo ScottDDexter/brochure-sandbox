@@ -1,0 +1,12 @@
+<dl>
+  {% for course in site.data.UGcourses %}
+
+  <dt> <b> {{ course.number }} </b> <i> {{ course.title }}</i></dt>
+  <dd> {{ course.credit }}<br/> 
+      {%- if course.prerequisite -%}
+      <b>Prerequisite: </b> {{- course.prerequisite | markdownify | remove: '<p>' | remove: '</p>' -}}<br/>
+      {%- endif -%}
+      {{ course.comment }}
+</dd>
+  {%  endfor %}
+</dl>
