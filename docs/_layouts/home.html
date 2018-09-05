@@ -11,7 +11,7 @@ layout: default
     <ol start=0>
       {% assign docs = site.UndergradContent | sort: 'sequence' %}
       {% for doc in docs %}
-      <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
+      <li><a href="{{ doc.url | relative_url }}">{{ doc.title }}</a></li>
       {% endfor %}
     </ol>
 
