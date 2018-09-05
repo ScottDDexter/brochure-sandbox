@@ -1,8 +1,7 @@
 ---
 
 ---
-
-@import "minima";
+@import "{{ site.theme }}";
 @import "_dropdown.scss";
 
 .post-title,
