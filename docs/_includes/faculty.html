@@ -3,7 +3,7 @@
     {% assign lowerlast = faculty.last | downcase %}
     {%- for image_file in site.static_files -%}
       {%- if image_file.basename == lowerlast -%}
-      <img class="faculty-portrait" src="{{ image_file.path }}"/>
+      <img class="faculty-portrait" src="{{ image_file.path | relative_url }}"/>
       {%- endif -%}
     {%- endfor -%}
     <div>
