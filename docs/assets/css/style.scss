@@ -5,17 +5,17 @@
 
 .post-title,
 .post-content h1 {
-      @include relative-font-size(1.8);
+/*      @include relative-font-size(1.8); */
         letter-spacing: -1px;
           line-height: 1;
           
-            @include media-query($on-laptop) {
-                    @include relative-font-size(1.8);
-                      }
-                  }
+/*            @include media-query($on-laptop) {
+                    @include relative-font-size(1.8); 
+                      } */
+                }
                   
                   
-                  .callout {
+.callout {
     padding: 20px;
     margin: 20px 0;
     line-height: 1.2;
