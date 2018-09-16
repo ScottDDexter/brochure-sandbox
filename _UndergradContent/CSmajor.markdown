@@ -41,8 +41,7 @@ Mathematics 1201 (3 credits) and 1206 (4 credits) are courses in calculus; Mathe
 
 ## Prerequisite Flowchart for the BS in Computer Science
 
-{% include embedpdf.html pdf="http://www.brooklyn.cuny.edu/web/aca_naturalsciences_cis/Prerequisite_Diagram_CS_Java.pdf" %}
-
+{% include embedpdf.html target="http://www.brooklyn.cuny.edu/web/aca_naturalsciences_cis/Prerequisite_Diagram_CS_Java.pdf" %}
 
 ## Possible Schedules for the CS Major
 Students wishing to major in CIS are encouraged to see a department counselor as early as possible. Note that the sample schedules in this section are appropriate for non-transfer students. Transfer students should consult with an advisor to plan their schedule at Brooklyn College.

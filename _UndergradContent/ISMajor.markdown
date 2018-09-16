@@ -57,7 +57,7 @@ A candidate for this degree must complete 24 credits in advanced courses in the 
 
 ## Prerequisite Flowchart for the BS in Information Systems
 
-{% include embedpdf.html pdf="http://www.brooklyn.cuny.edu/web/aca_naturalsciences_cis/Prerequisite_Diagram_IS_Java.pdf" %} <!-- _j -->
+{% include embedpdf.html target="http://www.brooklyn.cuny.edu/web/aca_naturalsciences_cis/Prerequisite_Diagram_IS_Java.pdf" %} <!-- _j -->
 
 ## Possible Schedules for the IS Major
 

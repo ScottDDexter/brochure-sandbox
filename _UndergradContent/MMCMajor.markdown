@@ -49,7 +49,7 @@ Important Note: To enroll in a CIS course, a student must have passed all prereq
 
 ## Prerequisite Flowchart for the BS in Multimedia Computing
 
-{% include embedpdf.html pdf="http://www.brooklyn.cuny.edu/web/aca_naturalsciences_cis/Prerequisite_Diagram_MMC_Java.pdf" %} <!-- _j --> 
+{% include embedpdf.html target="http://www.brooklyn.cuny.edu/web/aca_naturalsciences_cis/Prerequisite_Diagram_MMC_Java.pdf" %} <!-- _j --> 
 
 ## Possible Schedules for the MMC Major
 
