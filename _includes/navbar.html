@@ -4,13 +4,19 @@
 
     <div class="wrapper">
     <div class="navbar">
+        <span class="navbar-left"> 
+            
         {% if prev_pages.size > 0 %}
-          <span class="navbar-left"> <a href="{{ prev_pages.last.url | relative_url }}">PREVIOUS</a></span>
+            <a href="{{ prev_pages.last.url | relative_url }}">PREVIOUS</a>
         {% endif %}
-        
+    </span>
+
+        <span class="navbar-right"> 
         {% if next_pages.size > 0 %}
-          <span class="navbar-right"> <a href="{{ next_pages.first.url | relative_url }}">NEXT</a></span>
+            
+            <a href="{{ next_pages.first.url | relative_url }}">NEXT</a>
         {% endif %}
+    </span>
     </div>
     </div>
     {%- endif -%}
