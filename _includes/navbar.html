@@ -1,0 +1,16 @@
+    {%- if page.sequence -%}
+    {% assign next_pages = site.UndergradContent | where_exp: "item", "item.sequence > page.sequence" | sort: "sequence" %}
+    {% assign prev_pages = site.UndergradContent | where_exp: "item", "item.sequence < page.sequence" | sort: "sequence" %}
+
+    <div class="wrapper">
+        {% if prev_pages.size > 0 %}
+          <span class="navbar-left"> <a href="{{ prev_pages.last.url | relative_url }}">PREVIOUS</a></span>
+        {% endif %}
+        
+        {% if next_pages.size > 0 %}
+          <span class="navbar-right"> <a href="{{ next_pages.first.url | relative_url }}">NEXT</a></span>
+        {% endif %}
+
+    </div>
+    {%- endif -%}
+
