@@ -3,6 +3,7 @@
     {% assign prev_pages = site.UndergradContent | where_exp: "item", "item.sequence < page.sequence" | sort: "sequence" %}
 
     <div class="wrapper">
+    <div class="navbar">
         {% if prev_pages.size > 0 %}
           <span class="navbar-left"> <a href="{{ prev_pages.last.url | relative_url }}">PREVIOUS</a></span>
         {% endif %}
@@ -10,7 +11,7 @@
         {% if next_pages.size > 0 %}
           <span class="navbar-right"> <a href="{{ next_pages.first.url | relative_url }}">NEXT</a></span>
         {% endif %}
-
+    </div>
     </div>
     {%- endif -%}
 
