@@ -13,6 +13,23 @@
             } 
  }
                   
+.navbar {
+    line-height: 1.2;
+    font: sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.navbar-left {
+    align-self: flex-start;
+    text-align: left;
+}
+
+.navbar-right {
+    align-self: flex-end;
+    text-align: right;
+}
                   
 .callout {
     padding: 20px;
